@@ -190,4 +190,18 @@ domain:djponline.pajak.go.id
 domain:cekdptonline.kpu.go.id
 domain:dukcapil.kemendagri.go.id
 domain:oss.go.id
+domain:telkomsel.com
+domain:mytelkomsel.com
+domain:im3.id
+domain:indosatooredoo.com
+domain:xl.co.id
+domain:myxl.co.id
+domain:axis.co.id
+domain:tri.co.id
+domain:bima.tri.co.id
+domain:smartfren.com
+domain:mysmartfren.com
+domain:byu.id
+domain:liveon.id
+domain:orderkuota.com
 
