@@ -1,4 +1,4 @@
-domain:ip.me
+domain:ipinfo.io
 domain:seabank.co.id
 domain:bankamar.co.id
 domain:bankjago.com
