@@ -1,4 +1,10 @@
 # routing
 routing for potato tunneling
-bash ```
-wget -O /root/rules.txt raw.```
+# routing biznet
+```bash
+wget -O /root/rules.txt https://raw.githubusercontent.com/arivpnstores/routing/main/rules-biznet.txt
+```
+# routing sg
+```bash
+wget -O /root/rules.txt https://raw.githubusercontent.com/arivpnstores/routing/main/rules-sg.txt
+```
